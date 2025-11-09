@@ -2,6 +2,14 @@
 
 A professional, real-time guitar and bass tuner application for Android with advanced pitch detection, noise filtering, and multiple tuning modes.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1-main-screen.png" width="250" alt="Main Screen"/>
+  <img src="screenshots/3-string-selected.png" width="250" alt="String Selection"/>
+  <img src="screenshots/2-tuning-modes.png" width="250" alt="Tuning Modes"/>
+</p>
+
 ## Overview
 
 Guitar Tuner is a production-ready Android application that uses your device's microphone to detect the pitch of guitar strings in real-time. Built with modern Android development practices, it provides accurate tuning with visual feedback through an intuitive, Material Design 3 interface.
