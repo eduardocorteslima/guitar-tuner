@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1A1A1A</color>
+    <color name="tuner_green">#00FF41</color>
+    <color name="tuner_yellow">#FFD700</color>
+    <color name="tuner_red">#FF3131</color>
+</resources>
+
+

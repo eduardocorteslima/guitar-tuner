@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar Tuner</string>
+    <string name="permission_required">Microphone permission is required to detect pitch</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="tuning_mode">Tuning Mode</string>
+    <string name="standard">Standard</string>
+    <string name="drop_d">Drop D</string>
+    <string name="drop_c">Drop C</string>
+    <string name="open_g">Open G</string>
+    <string name="open_d">Open D</string>
+    <string name="dadgad">DADGAD</string>
+    <string name="loosen">Loosen</string>
+    <string name="tuned">Tuned</string>
+    <string name="tighten">Tighten</string>
+    <string name="play_louder">Play louder</string>
+</resources>
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Afinador de Violão</string>
+    <string name="permission_required">Permissão do microfone é necessária para detectar o tom</string>
+    <string name="grant_permission">Conceder Permissão</string>
+    <string name="tuning_mode">Modo de Afinação</string>
+    <string name="standard">Padrão</string>
+    <string name="drop_d">Drop D</string>
+    <string name="drop_c">Drop C</string>
+    <string name="open_g">Open G</string>
+    <string name="open_d">Open D</string>
+    <string name="dadgad">DADGAD</string>
+    <string name="loosen">Afrouxar</string>
+    <string name="tuned">Afinado</string>
+    <string name="tighten">Apertar</string>
+    <string name="play_louder">Toque mais alto</string>
+</resources>
+
