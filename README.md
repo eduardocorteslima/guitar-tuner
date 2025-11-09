@@ -6,7 +6,7 @@ A professional, real-time guitar and bass tuner application for Android with adv
 
 <p align="center">
   <img src="screenshots/1-main-screen.png" width="250" alt="Main Screen"/>
-  <img src="screenshots/3-string-selected.png" width="250" alt="String Selection"/>
+  <img src="screenshots/3-string-a-selected.png" width="250" alt="String Selection"/>
 </p>
 
 ## Overview
